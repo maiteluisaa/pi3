@@ -27,7 +27,7 @@ No entanto, este método de aferição é intensivo em mão de obra e sujeito a 
 O projeto consiste em utilizar um micrômetro para ajustar a distância até a superfície do aço AISI 4140, enquanto a tensão de saída do sensor é medida de forma automática pelo microcontrolador. Após a conclusão das medições, os dados são transferidos para um aplicativo de celular através de uma conexão Bluetooth. No aplicativo, a curva é comparada com os padrões de referência e o resultado da análise é imediatamente fornecido ao usuário.
 ![](https://github.com/maiteluisaa/pi3/blob/main/figures/sistema.png)
 
-### Cronograma de Atividades:
+### Cronograma de Atividades do Projeto:
 
 |  Atividades                                        | Período    |
 | -------------------------------------------------- | ---------- |
