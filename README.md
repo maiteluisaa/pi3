@@ -26,3 +26,21 @@ No entanto, este método de aferição é intensivo em mão de obra e sujeito a 
 
 O projeto consiste em utilizar um micrômetro para ajustar a distância até a superfície do aço AISI 4140, enquanto a tensão de saída do sensor é medida de forma automática pelo microcontrolador. Após a conclusão das medições, os dados são transferidos para um aplicativo de celular através de uma conexão Bluetooth. No aplicativo, a curva é comparada com os padrões de referência e o resultado da análise é imediatamente fornecido ao usuário.
 ![](https://github.com/maiteluisaa/pi3/blob/main/figures/sistema.png)
+
+### Cronograma de Atividades:
+
+|  Atividades                                        | Período    |
+| -------------------------------------------------- | ---------- |
+| Definição de componentes | 13 a 20 - Março |
+| Compra dos componentes | 20 a 31 - Março |
+| Integração do micrômetro - RS232 | 01 a 06 - Abril |
+| Leitura do sensor | 06 a 17 - Abril |
+| Definição do mecanismo do motor/sistema |      1     |
+| Módulo Relé 5 V e um Canal |      2     |
+| Sensor ultrasônico HC-SR04 |      1     |
+| Módulo Matriz de LED 8×8 com MAX7219 |      1     |
+| Buzzer passivo |      1     |
+| Display LCD 16×2 I2C Backlight Azul |      1     |
+| Cooler |      1     |
+| Módulo de fonte de alimentação HW-131 | 1 | 
+| Higrômetro YL-69 | 1 |
