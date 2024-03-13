@@ -17,3 +17,5 @@ Atualmente, a verificação da precisão do sistema de medição é realizada ma
 ![](https://github.com/maiteluisaa/pi3/blob/main/figures/afericaomanual.png)
 
 No entanto, este método de aferição é intensivo em mão de obra e sujeito a erros humanos. Portanto, este projeto visa automatizar o processo de aferição. Com a capacidade de conter até 20 proxímetros em um tubo gerador, o sistema automatizado eliminará a necessidade de intervenção manual para cada unidade. Isso resultará na redução significativa de erros humanos, otimização do tempo necessário para aferição e aumento da eficiência do trabalho, evitando tarefas repetitivas e monótonas para os trabalhadores.
+
+![](https://github.com/maiteluisaa/pi3/blob/main/figures/sistema.png)
