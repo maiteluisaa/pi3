@@ -6,9 +6,11 @@ O sistema de medição de proximidade é empregado para determinar a distância 
 
 O sistema é composto por uma sonda, um cabo de extensão e um proxímetro. 
 
-![](https://github.com/maiteluisaa/pi3/blob/main/figures/curva.png)
+![](https://github.com/maiteluisaa/pi3/blob/main/figures/componentes.png)
 
 A curva do proxímetro é fornecida pelo datasheet do fabricante e adaptada às características do aço AISI 4140, geralmente apresenta um fator de escala incremental de aproximadamente 7.87 V/mm.
+
+![](https://github.com/maiteluisaa/pi3/blob/main/figures/curva.png)
 
 Atualmente, a verificação da precisão do sistema de medição é realizada manualmente. Este processo envolve o uso de um micrômetro para ajustar a distância até a superfície do aço AISI 4140, enquanto a tensão de saída do sensor é medida. Cerca de 10 medições são executadas dentro do intervalo estabelecido pelo fornecedor. Os dados coletados são então transferidos para uma planilha do Excel, onde são utilizados para gerar um gráfico e calcular o erro. É importante observar que o fator de escala incremental deve estar dentro de uma tolerância de 5%.
 
