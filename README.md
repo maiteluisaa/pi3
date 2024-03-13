@@ -1,4 +1,4 @@
-![image](https://github.com/maiteluisaa/pi3/assets/48412314/5517ed25-a568-4b33-9b11-f9597895497d)# Projeto Integrador 3 - Sistema de aferição de medição de proximidade para medição de vibração relativa de eixo
+# Projeto Integrador 3 - Sistema de aferição de medição de proximidade para medição de vibração relativa de eixo
 
 O sistema de medição de proximidade é empregado para determinar a distância até a superfície do aço AISI 4140, especialmente para a medição da vibração relativa do eixo. Nesse processo, quanto mais próxima a superfície, menor é a tensão DC gap medida, estabelecendo uma relação inversamente proporcional.
 
