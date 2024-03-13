@@ -35,12 +35,13 @@ O projeto consiste em utilizar um micrômetro para ajustar a distância até a s
 | Compra dos componentes | 20 a 31 - Março |
 | Integração do micrômetro - RS232 | 01 a 06 - Abril |
 | Leitura do sensor | 06 a 17 - Abril |
-| Definição do mecanismo do motor/sistema |      1     |
-| Módulo Relé 5 V e um Canal |      2     |
-| Sensor ultrasônico HC-SR04 |      1     |
-| Módulo Matriz de LED 8×8 com MAX7219 |      1     |
-| Buzzer passivo |      1     |
-| Display LCD 16×2 I2C Backlight Azul |      1     |
-| Cooler |      1     |
-| Módulo de fonte de alimentação HW-131 | 1 | 
-| Higrômetro YL-69 | 1 |
+| Definição do mecanismo do motor/sistema | 24 a 30 - Abril |
+| Definição do mecanismo do motor/sistema / Montagem da estrutura | 01 a 08 - Maio |
+| Integração do bluetooth / Montagem da estrutura | 08 a 15 - Maio |
+| Aplicativo de celular / Montagem da estrutura | 22 a 31 - Maio |
+| Aplicativo de celular / Montagem da estrutura | 01 a 05 - Junho |
+| Teste do sistema | 05 a 12 - Junho |
+| Teste do sistema  | 12 a 19 - Junho |
+| Teste do sistema  | 19 a 26 - Junho | 
+| Teste do sistema  | 26 a 30 - Junho |
+| Apresentação  | 03 - Julho |
