@@ -1,8 +1,14 @@
-# Projeto Integrador 3 - Sistema de aferição de medição de proximidade para medição de vibração relativa de eixo
+![image](https://github.com/maiteluisaa/pi3/assets/48412314/5517ed25-a568-4b33-9b11-f9597895497d)# Projeto Integrador 3 - Sistema de aferição de medição de proximidade para medição de vibração relativa de eixo
 
 O sistema de medição de proximidade é empregado para determinar a distância até a superfície do aço AISI 4140, especialmente para a medição da vibração relativa do eixo. Nesse processo, quanto mais próxima a superfície, menor é a tensão DC gap medida, estabelecendo uma relação inversamente proporcional.
 
+A sonda emite uma onda eletromagnética e é capaz de detectar quaisquer variações no campo gerado por essa onda.
+
 ![](https://github.com/maiteluisaa/pi3/blob/main/figures/sensor.jpeg)
+
+O sinal é encaminhado para o demodulador, que realiza a extração da envoltória negativa da curva.
+
+![](https://github.com/maiteluisaa/pi3/blob/main/figures/output.png)
 
 O sistema é composto por uma sonda, um cabo de extensão e um proxímetro. 
 
@@ -18,4 +24,5 @@ Atualmente, a verificação da precisão do sistema de medição é realizada ma
 
 No entanto, este método de aferição é intensivo em mão de obra e sujeito a erros humanos. Portanto, este projeto visa automatizar o processo de aferição. Com a capacidade de conter até 20 proxímetros em um tubo gerador, o sistema automatizado eliminará a necessidade de intervenção manual para cada unidade. Isso resultará na redução significativa de erros humanos, otimização do tempo necessário para aferição e aumento da eficiência do trabalho, evitando tarefas repetitivas e monótonas para os trabalhadores.
 
+O 
 ![](https://github.com/maiteluisaa/pi3/blob/main/figures/sistema.png)
