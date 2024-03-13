@@ -6,7 +6,7 @@ O sistema de medição de proximidade é empregado para determinar a distância 
 
 O sistema é composto por uma sonda, um cabo de extensão e um proxímetro. 
 
-![](https://github.com/maiteluisaa/pi3/blob/main/figures/sensor.jpeg)
+![](https://github.com/maiteluisaa/pi3/blob/main/figures/curva.png)
 
 A curva do proxímetro é fornecida pelo datasheet do fabricante e adaptada às características do aço AISI 4140, geralmente apresenta um fator de escala incremental de aproximadamente 7.87 V/mm.
 
